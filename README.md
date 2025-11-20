@@ -1,16 +1,53 @@
-## Hi there 👋
+🌟 Olá! Seja bem-vindo(a) ao meu perfil
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="25" height="25" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AD09F7&width=480&lines=Eu+sou+Vinicius+Bassio+-+Desenvolvedor+Back-end" alt="Typing SVG" /></a>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="25" height="25" />
 
-<!--
-**viniciusbassio/viniciusbassio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduando em Análise e Desenvolvimento de Sistemas (6º termo) pela Unifai.
 
-Here are some ideas to get you started:
+🧩 Desenvolvedor focado em back-end, C#, SQL Server e integrações de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Apaixonado por tecnologia, problemas reais e soluções bem estruturadas.
+
+🛠️ Sobre mim
+
+Back-end & APIs: C#, .NET, Entity Framework, arquitetura simples e integrações.
+
+Bancos de Dados: Modelagem, queries otimizadas, ETL em SQL Server e manutenção.
+
+Desenvolvimento Web: Aplicações com foco em lógica, dados e segurança.
+
+Documentação & Análise: Planejamento, especificação técnica e definição de requisitos.
+
+Pesquisa contínua: Uso constante de inglês técnico para aprendizado e referência.
+
+Idiomas:
+
+🇬🇧 Inglês — Intermediário (boa leitura técnica)
+
+🧩 Projetos em destaque
+
+🔧 ETL em C# + SQL Server
+Pipeline com ingestão, padronização e carga de dados, usando ADO.NET e SQL otimizados.
+
+🗄️ Sistema de Gestão (CRUD + Autenticação)
+Aplicação com persistência em SQL Server, login e organização modular.
+
+🌐 Sites e Interfaces Web
+Estruturas responsivas, design limpo e documentação completa.
+
+Se quiser, posso adicionar os links reais desses projetos — só me enviar quais deseja destacar.
+
+🔎 Status atual
+
+📚 Estudando e aprimorando:
+C# avançado, ASP.NET Core, SQL Server, pipelines ETL e arquitetura para back-end.
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=viniciusbassio&show_icons=true&theme=material-palenight&locale=pt-br" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusbassio&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=material-palenight" height="150" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusbassio&radius=16&theme=material-palenight&area=true" height="260" /> </div>
+
+
+🌐 Conecte-se comigo
+<a href="https://www.linkedin.com/in/vinicius-dos-santos-bassio-213697235" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /> </a>
+<div align="center">
+
+</div>
