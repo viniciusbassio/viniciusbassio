@@ -1,6 +1,6 @@
 🌟 Olá! Seja bem-vindo(a) ao meu perfil
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="25" height="25" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AD09F7&width=480&lines=Eu+sou+Vinicius+Bassio+-+Desenvolvedor+Back-end" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AD09F7&width=480&lines=Eu+sou+Vinicius+Bassio" alt="Typing SVG" /></a>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="25" height="25" />
 
 🎓 Graduando em Análise e Desenvolvimento de Sistemas (6º termo) pela Unifai.
