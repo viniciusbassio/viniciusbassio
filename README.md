@@ -25,18 +25,8 @@ Idiomas:
 
 🇬🇧 Inglês — Intermediário (boa leitura técnica)
 
-🧩 Projetos em destaque
-
-🔧 ETL em C# + SQL Server
-Pipeline com ingestão, padronização e carga de dados, usando ADO.NET e SQL otimizados.
-
-🗄️ Sistema de Gestão (CRUD + Autenticação)
-Aplicação com persistência em SQL Server, login e organização modular.
-
 🌐 Sites e Interfaces Web
 Estruturas responsivas, design limpo e documentação completa.
-
-Se quiser, posso adicionar os links reais desses projetos — só me enviar quais deseja destacar.
 
 🔎 Status atual
 
